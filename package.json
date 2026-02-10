@@ -1,0 +1,21 @@
+{
+  "name": "llm-cost-calculator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LLM Cost Calculator",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000 -o"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.958.0",
+    "express": "^5.2.1",
+    "dotenv": "^16.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

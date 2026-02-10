@@ -1,0 +1,4178 @@
+[
+  {
+    "provider": "AWS Bedrock",
+    "name": "ugw1-llama3-8b",
+    "region": "us-gov-west-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "us-west-2",
+    "inputCost": 0.00003,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00004,
+    "outputCost": 0.00018,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "eu-north-1",
+    "inputCost": 0.00068,
+    "outputCost": 0.005435,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-4b-it",
+    "region": "us-west-2",
+    "inputCost": 0.00002,
+    "outputCost": 0.00004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mes1-nova2.0omni-text",
+    "region": "me-south-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0013,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-ministral-3-3b-instruct",
+    "region": "sa-east-1",
+    "inputCost": 0.00021,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ilc1-novamicro",
+    "region": "il-central-1",
+    "inputCost": 0.000044,
+    "outputCost": 0.000176,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-nova2.0lite",
+    "region": "eu-west-1",
+    "inputCost": 0.000187,
+    "outputCost": 0.0015785,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-gpt-oss-safeguard-20b",
+    "region": "eu-west-1",
+    "inputCost": 0.00008,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ca-west-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ape2-nova2.0pro-text",
+    "region": "ap-east-2",
+    "inputCost": 0.000755,
+    "outputCost": 0.0125,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-voxtral-mini-3b-2507",
+    "region": "us-east-2",
+    "inputCost": 0.00002,
+    "outputCost": 0.00007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "us-west-2",
+    "inputCost": 0.0002,
+    "outputCost": 0.0013,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "kimi-k2-thinking",
+    "region": "us-west-2",
+    "inputCost": 0.00105,
+    "outputCost": 0.0025,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "usw1-nova2.0lite",
+    "region": "us-west-1",
+    "inputCost": 0.000195,
+    "outputCost": 0.001605,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-12b-it",
+    "region": "eu-south-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00034,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-8b-instruct",
+    "region": "eu-south-1",
+    "inputCost": 0.00032,
+    "outputCost": 0.00009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "eu-central-1",
+    "inputCost": 0.0001,
+    "outputCost": 0.0004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-4b-it",
+    "region": "eu-south-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00016,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-20b",
+    "region": "eu-west-2",
+    "inputCost": 0.00006,
+    "outputCost": 0.00054,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "eu-west-2",
+    "inputCost": 0.00088,
+    "outputCost": 0.007035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-gemma-3-4b-it",
+    "region": "eu-west-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-gemma-3-12b-it",
+    "region": "sa-east-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00061,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-nova2.0lite",
+    "region": "us-east-2",
+    "inputCost": 0.0003,
+    "outputCost": 0.00125,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "us-west-2",
+    "inputCost": 0.0002,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "us-east-1",
+    "inputCost": 0.000165,
+    "outputCost": 0.000125,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ape2-nova2.0omni-text",
+    "region": "ap-east-2",
+    "inputCost": 0.0004,
+    "outputCost": 0.003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mixtral8x7b",
+    "region": "ca-central-1",
+    "inputCost": 0.00052,
+    "outputCost": 0.00081,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-qwen3-vl-235b-a22b",
+    "region": "us-east-2",
+    "inputCost": 0.00093,
+    "outputCost": 0.00133,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ca-central-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0047,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "magistral-small-2509",
+    "region": "us-west-2",
+    "inputCost": 0.00025,
+    "outputCost": 0.0015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "eu-north-1",
+    "inputCost": 0.000363,
+    "outputCost": 0.002992,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-8b-instruct",
+    "region": "eu-west-2",
+    "inputCost": 0.00012,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-3b",
+    "region": "us-east-1",
+    "inputCost": 0.00015,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-ministral-3-8b-instruct",
+    "region": "us-east-2",
+    "inputCost": 0.00015,
+    "outputCost": 0.00007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-gemma-3-12b-it",
+    "region": "eu-west-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00017,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ape2-novalite",
+    "region": "ap-east-2",
+    "inputCost": 0.000072,
+    "outputCost": 0.000144,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistralsmall",
+    "region": "us-east-1",
+    "inputCost": 0.001,
+    "outputCost": 0.0015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "eu-south-1",
+    "inputCost": 0.0001575,
+    "outputCost": 0.0007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-lite",
+    "region": "eu-west-2",
+    "inputCost": 0.0002,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-12b-it",
+    "region": "eu-west-2",
+    "inputCost": 0.00014,
+    "outputCost": 0.00045,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-1-70b",
+    "region": "us-east-2",
+    "inputCost": 0.00036,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-24b-2507",
+    "region": "eu-west-2",
+    "inputCost": 0.00008,
+    "outputCost": 0.00047,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-12b-v2-vl-bf16",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00036,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "deepseek-r1",
+    "region": "us-east-1",
+    "inputCost": 0.00135,
+    "outputCost": 0.0054,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "ap-northeast-2",
+    "inputCost": 0.000041,
+    "outputCost": 0.000082,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-nova2.0pro-text",
+    "region": "us-east-2",
+    "inputCost": 0.000625,
+    "outputCost": 0.005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-ministral-3-14b-instruct",
+    "region": "sa-east-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-southeast-2",
+    "inputCost": 0.00032,
+    "outputCost": 0.001315,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00096,
+    "outputCost": 0.00672,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "eu-central-1",
+    "inputCost": 0.000429,
+    "outputCost": 0.00327,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama4-scout-17b",
+    "region": "us-west-2",
+    "inputCost": 0.000085,
+    "outputCost": 0.00066,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-235b-a22b",
+    "region": "eu-west-2",
+    "inputCost": 0.00017,
+    "outputCost": 0.0023975,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-vl-235b-a22b",
+    "region": "us-east-1",
+    "inputCost": 0.00026,
+    "outputCost": 0.00133,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-gpt-oss-20b",
+    "region": "sa-east-1",
+    "inputCost": 0.00014,
+    "outputCost": 0.00018,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-qwen3coder-30b-a3b",
+    "region": "sa-east-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.000365,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "eu-south-2",
+    "inputCost": 0.000363,
+    "outputCost": 0.0048125,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "deepseek-v3.1",
+    "region": "ap-southeast-3",
+    "inputCost": 0.0003,
+    "outputCost": 0.00087,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "eu-west-3",
+    "inputCost": 0.0008,
+    "outputCost": 0.0065,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-1-70b-latency-optimized",
+    "region": "us-west-2",
+    "inputCost": 0.0009,
+    "outputCost": 0.0009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-3-30b",
+    "region": "ap-south-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "ap-south-1",
+    "inputCost": 0.000315,
+    "outputCost": 0.0012425,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00073,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-120b",
+    "region": "eu-west-2",
+    "inputCost": 0.00012,
+    "outputCost": 0.00047,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "eu-north-1",
+    "inputCost": 0.0002625,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-nemotron-nano-9b-v2",
+    "region": "eu-west-1",
+    "inputCost": 0.00007,
+    "outputCost": 0.00027,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-southeast-7",
+    "inputCost": 0.00168,
+    "outputCost": 0.00192,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-235b-a22b",
+    "region": "eu-central-1",
+    "inputCost": 0.000145,
+    "outputCost": 0.00203,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-mistrallarge",
+    "region": "eu-west-1",
+    "inputCost": 0.0043,
+    "outputCost": 0.013,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-480b-a35b",
+    "region": "eu-west-2",
+    "inputCost": 0.00035,
+    "outputCost": 0.0048825,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ape2-novapro",
+    "region": "ap-east-2",
+    "inputCost": 0.00048,
+    "outputCost": 0.00192,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-novalite",
+    "region": "us-east-2",
+    "inputCost": 0.00006,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-southeast-3",
+    "inputCost": 0.00231,
+    "outputCost": 0.00528,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-120b",
+    "region": "us-east-1",
+    "inputCost": 0.00026,
+    "outputCost": 0.00105,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "minimax-m2",
+    "region": "eu-south-1",
+    "inputCost": 0.00035,
+    "outputCost": 0.00141,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "eu-central-1",
+    "inputCost": 0.0018375,
+    "outputCost": 0.00735,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-12b-v2-vl-bf16",
+    "region": "us-west-2",
+    "inputCost": 0.00035,
+    "outputCost": 0.00105,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-3b-instruct",
+    "region": "ap-south-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00021,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-vl-235b-a22b",
+    "region": "eu-south-1",
+    "inputCost": 0.00109,
+    "outputCost": 0.00312,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3next-80b-a3b",
+    "region": "eu-west-2",
+    "inputCost": 0.0004,
+    "outputCost": 0.00093,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-1b",
+    "region": "eu-central-1",
+    "inputCost": 0.00013,
+    "outputCost": 0.000065,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00036,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-south-1",
+    "inputCost": 0.0006125,
+    "outputCost": 0.00295,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ugw1-novapro",
+    "region": "us-gov-west-1",
+    "inputCost": 0.00048,
+    "outputCost": 0.00384,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "us-west-2",
+    "inputCost": 0.000075,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ap-southeast-5",
+    "inputCost": 0.000072,
+    "outputCost": 0.000288,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-9b-v2",
+    "region": "us-west-2",
+    "inputCost": 0.00003,
+    "outputCost": 0.0004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-southeast-4",
+    "inputCost": 0.000435,
+    "outputCost": 0.00609,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "us-east-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mec1-novalite",
+    "region": "me-central-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-12b-it",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00061,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "us-west-2",
+    "inputCost": 0.0021875,
+    "outputCost": 0.005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "eu-north-1",
+    "inputCost": 0.000019,
+    "outputCost": 0.000076,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-southeast-4",
+    "inputCost": 0.000165,
+    "outputCost": 0.001355,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "eu-west-3",
+    "inputCost": 0.00092,
+    "outputCost": 0.025795,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-3-30b",
+    "region": "us-west-2",
+    "inputCost": 0.00003,
+    "outputCost": 0.00024,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "eu-west-2",
+    "inputCost": 0.00021,
+    "outputCost": 0.00176,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mec1-nova2.0omni-text",
+    "region": "me-central-1",
+    "inputCost": 0.0005,
+    "outputCost": 0.0013,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-southeast-5",
+    "inputCost": 0.0029575,
+    "outputCost": 0.02373,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-1-70b-latency-optimized",
+    "region": "us-east-1",
+    "inputCost": 0.0009,
+    "outputCost": 0.0009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "kimi-k2-thinking",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00036,
+    "outputCost": 0.00152,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-8b-instruct",
+    "region": "ap-south-1",
+    "inputCost": 0.00018,
+    "outputCost": 0.00009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral7b",
+    "region": "ap-southeast-2",
+    "inputCost": 0.0002,
+    "outputCost": 0.00026,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama4-maverick-17b",
+    "region": "us-east-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00097,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral-large-3-675b-instruct",
+    "region": "us-east-1",
+    "inputCost": 0.0005,
+    "outputCost": 0.0015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "usw1-nova2.0pro-text",
+    "region": "us-west-1",
+    "inputCost": 0.00309925,
+    "outputCost": 0.00642,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-14b-instruct",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00024,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-novamicro",
+    "region": "eu-west-1",
+    "inputCost": 0.00002,
+    "outputCost": 0.00016,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ugw1-llama3-70b",
+    "region": "us-gov-west-1",
+    "inputCost": 0.00265,
+    "outputCost": 0.0035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "eu-north-1",
+    "inputCost": 0.00015,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mec1-nova2.0pro-text",
+    "region": "me-central-1",
+    "inputCost": 0.000625,
+    "outputCost": 0.017535,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ca-west-1",
+    "inputCost": 0.00017,
+    "outputCost": 0.00281,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-minimax-m2",
+    "region": "us-east-2",
+    "inputCost": 0.00052,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-llama3-70b",
+    "region": "sa-east-1",
+    "inputCost": 0.00445,
+    "outputCost": 0.00588,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "us-east-1",
+    "inputCost": 0.000625,
+    "outputCost": 0.005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-3b-instruct",
+    "region": "us-west-2",
+    "inputCost": 0.00005,
+    "outputCost": 0.0001,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-gpt-oss-safeguard-120b",
+    "region": "us-east-2",
+    "inputCost": 0.00007,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-1-405b",
+    "region": "us-east-2",
+    "inputCost": 0.0024,
+    "outputCost": 0.0024,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "minimax-m2",
+    "region": "eu-west-2",
+    "inputCost": 0.00023,
+    "outputCost": 0.00093,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-ministral-3-14b-instruct",
+    "region": "us-east-2",
+    "inputCost": 0.00035,
+    "outputCost": 0.0002,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-south-1",
+    "inputCost": 0.00047,
+    "outputCost": 0.00188,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "us-east-1",
+    "inputCost": 0.00015,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "us-west-2",
+    "inputCost": 0.00033,
+    "outputCost": 0.001375,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ape2-nova2.0lite",
+    "region": "ap-east-2",
+    "inputCost": 0.00063,
+    "outputCost": 0.00301,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "deepseek-v3.1",
+    "region": "us-west-2",
+    "inputCost": 0.00058,
+    "outputCost": 0.00168,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-12b-v2-vl-bf16",
+    "region": "ap-south-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00124,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-gpt-oss-safeguard-120b",
+    "region": "eu-west-1",
+    "inputCost": 0.00018,
+    "outputCost": 0.00035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-nemotron-nano-12b-v2-vl-bf16",
+    "region": "sa-east-1",
+    "inputCost": 0.00024,
+    "outputCost": 0.00073,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-1b",
+    "region": "us-east-1",
+    "inputCost": 0.0001,
+    "outputCost": 0.0001,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-12b-it",
+    "region": "ap-south-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "eu-west-2",
+    "inputCost": 0.0004,
+    "outputCost": 0.0018,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "eu-west-2",
+    "inputCost": 0.0004025,
+    "outputCost": 0.000465,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "minimax-m2",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00063,
+    "outputCost": 0.00254,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-27b-it",
+    "region": "us-east-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00067,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-qwen3-32b",
+    "region": "sa-east-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.0012775,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "ap-southeast-3",
+    "inputCost": 0.00016,
+    "outputCost": 0.00031,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-mistral-large-3-675b-instruct",
+    "region": "sa-east-1",
+    "inputCost": 0.00107,
+    "outputCost": 0.00182,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "eu-south-2",
+    "inputCost": 0.000039,
+    "outputCost": 0.000156,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic-text",
+    "region": "ap-northeast-1",
+    "inputCost": 0.000072,
+    "outputCost": 0.000288,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-southeast-3",
+    "inputCost": 0.00032,
+    "outputCost": 0.00132,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "eu-south-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite-custom-model",
+    "region": "us-east-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00024,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "eu-south-1",
+    "inputCost": 0.0001,
+    "outputCost": 0.000395,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-mistral-large-3-675b-instruct",
+    "region": "us-east-2",
+    "inputCost": 0.00025,
+    "outputCost": 0.00075,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-south-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "eu-central-1",
+    "inputCost": 0.0001,
+    "outputCost": 0.000395,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-nemotron-nano-3-30b",
+    "region": "sa-east-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00029,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-480b-a35b",
+    "region": "eu-north-1",
+    "inputCost": 0.000225,
+    "outputCost": 0.00315,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-3b-instruct",
+    "region": "us-east-1",
+    "inputCost": 0.0001,
+    "outputCost": 0.00005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ca-west-1",
+    "inputCost": 0.0024675,
+    "outputCost": 0.00563,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "us-west-2",
+    "inputCost": 0.000035,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-southeast-4",
+    "inputCost": 0.0003,
+    "outputCost": 0.0014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "us-west-2",
+    "inputCost": 0.0004,
+    "outputCost": 0.0016,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-qwen3-32b",
+    "region": "eu-west-1",
+    "inputCost": 0.000315,
+    "outputCost": 0.0007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-vl-235b-a22b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00112,
+    "outputCost": 0.00161,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic-speech",
+    "region": "us-east-1",
+    "inputCost": 0.0034,
+    "outputCost": 0.0136,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-kimi-k2-thinking",
+    "region": "us-east-2",
+    "inputCost": 0.0003,
+    "outputCost": 0.00438,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "eu-south-1",
+    "inputCost": 0.0002405,
+    "outputCost": 0.0041,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "eu-north-1",
+    "inputCost": 0.000065,
+    "outputCost": 0.00013,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-1-405b",
+    "region": "us-west-2",
+    "inputCost": 0.0012,
+    "outputCost": 0.0012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-qwen3-vl-235b-a22b",
+    "region": "sa-east-1",
+    "inputCost": 0.00032,
+    "outputCost": 0.00161,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "eu-west-3",
+    "inputCost": 0.00025,
+    "outputCost": 0.000788,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "ap-south-1",
+    "inputCost": 0.000315,
+    "outputCost": 0.00071,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-14b-instruct",
+    "region": "us-east-1",
+    "inputCost": 0.00035,
+    "outputCost": 0.0001,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "us-east-1",
+    "inputCost": 0.0002625,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ca-central-1",
+    "inputCost": 0.00016,
+    "outputCost": 0.001485,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-northeast-1",
+    "inputCost": 0.0004,
+    "outputCost": 0.0053,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapremier",
+    "region": "us-east-1",
+    "inputCost": 0.00125,
+    "outputCost": 0.0125,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mec1-nova2.0lite",
+    "region": "me-central-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.00125,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistrallarge2407",
+    "region": "us-west-2",
+    "inputCost": 0.002,
+    "outputCost": 0.006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "minimax-m2",
+    "region": "us-east-1",
+    "inputCost": 0.00015,
+    "outputCost": 0.0021,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-qwen3coder-480b-a35b",
+    "region": "us-east-2",
+    "inputCost": 0.000225,
+    "outputCost": 0.0009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ap-southeast-7",
+    "inputCost": 0.000072,
+    "outputCost": 0.000288,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "ap-southeast-3",
+    "inputCost": 0.0001225,
+    "outputCost": 0.00031,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-nemotron-nano-3-30b",
+    "region": "eu-west-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00028,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-southeast-7",
+    "inputCost": 0.000845,
+    "outputCost": 0.02373,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-3-30b",
+    "region": "us-east-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "ap-south-1",
+    "inputCost": 0.00014,
+    "outputCost": 0.0006125,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "eu-west-2",
+    "inputCost": 0.000055,
+    "outputCost": 0.000235,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-northeast-1",
+    "inputCost": 0.000396,
+    "outputCost": 0.00579425,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-120b",
+    "region": "ap-south-1",
+    "inputCost": 0.00032,
+    "outputCost": 0.00124,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ugw1-novamicro",
+    "region": "us-gov-west-1",
+    "inputCost": 0.000021,
+    "outputCost": 0.000084,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-235b-a22b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00027,
+    "outputCost": 0.00053,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "usw1-nova2.0omni-text",
+    "region": "us-west-1",
+    "inputCost": 0.0004,
+    "outputCost": 0.0062,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-3b-2507",
+    "region": "us-east-1",
+    "inputCost": 0.00002,
+    "outputCost": 0.00007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-12b-it",
+    "region": "us-west-2",
+    "inputCost": 0.00005,
+    "outputCost": 0.00051,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "kimi-k2-thinking",
+    "region": "ap-south-1",
+    "inputCost": 0.00124,
+    "outputCost": 0.00147,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral-large-3-675b-instruct",
+    "region": "us-west-2",
+    "inputCost": 0.0005,
+    "outputCost": 0.0015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-novapro",
+    "region": "us-east-2",
+    "inputCost": 0.0004,
+    "outputCost": 0.0016,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama4-maverick-17b",
+    "region": "us-east-2",
+    "inputCost": 0.00024,
+    "outputCost": 0.000485,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-southeast-1",
+    "inputCost": 0.00108,
+    "outputCost": 0.00216,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-9b-v2",
+    "region": "eu-west-2",
+    "inputCost": 0.00009,
+    "outputCost": 0.00018,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-southeast-2",
+    "inputCost": 0.000655,
+    "outputCost": 0.005255,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "ap-south-1",
+    "inputCost": 0.001,
+    "outputCost": 0.0019,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-llama3-2-1b",
+    "region": "eu-west-1",
+    "inputCost": 0.00011,
+    "outputCost": 0.00011,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "deepseek-r1",
+    "region": "us-west-2",
+    "inputCost": 0.00135,
+    "outputCost": 0.0054,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3next-80b-a3b",
+    "region": "ap-south-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00247,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-gpt-oss-120b",
+    "region": "eu-west-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.001225,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-12b-it",
+    "region": "us-east-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00029,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-14b-instruct",
+    "region": "us-west-2",
+    "inputCost": 0.00035,
+    "outputCost": 0.0002,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-voxtral-mini-24b-2507",
+    "region": "sa-east-1",
+    "inputCost": 0.00021,
+    "outputCost": 0.00018,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "minimax-m2",
+    "region": "us-west-2",
+    "inputCost": 0.00052,
+    "outputCost": 0.0021,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-gpt-oss-20b",
+    "region": "us-east-2",
+    "inputCost": 0.000035,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-8b",
+    "region": "ca-central-1",
+    "inputCost": 0.00035,
+    "outputCost": 0.00069,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-20b",
+    "region": "ap-south-1",
+    "inputCost": 0.00008,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-voxtral-mini-3b-2507",
+    "region": "sa-east-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-southeast-5",
+    "inputCost": 0.00048,
+    "outputCost": 0.00672,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-titantextg1-express",
+    "region": "eu-west-1",
+    "inputCost": 0.001,
+    "outputCost": 0.0017,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-27b-it",
+    "region": "eu-south-1",
+    "inputCost": 0.00047,
+    "outputCost": 0.00045,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-southeast-1",
+    "inputCost": 0.0029575,
+    "outputCost": 0.02373,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-9b-v2",
+    "region": "ap-south-1",
+    "inputCost": 0.00007,
+    "outputCost": 0.00014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-magistral-small-2509",
+    "region": "sa-east-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.00091,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-northeast-1",
+    "inputCost": 0.000755,
+    "outputCost": 0.0125,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "us-west-2",
+    "inputCost": 0.000075,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-southeast-2",
+    "inputCost": 0.0006,
+    "outputCost": 0.0013,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "us-west-2",
+    "inputCost": 0.000075,
+    "outputCost": 0.00105,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-kimi-k2-thinking",
+    "region": "sa-east-1",
+    "inputCost": 0.00036,
+    "outputCost": 0.00152,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-14b-instruct",
+    "region": "eu-south-1",
+    "inputCost": 0.00023,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "eu-central-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0057,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "eu-central-1",
+    "inputCost": 0.000023,
+    "outputCost": 0.000184,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "afs1-nova2.0omni-text",
+    "region": "af-south-1",
+    "inputCost": 0.0006,
+    "outputCost": 0.0028,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic2.0-text",
+    "region": "us-east-1",
+    "inputCost": 0.00033,
+    "outputCost": 0.00275,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-2-11b",
+    "region": "us-east-2",
+    "inputCost": 0.00016,
+    "outputCost": 0.00016,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-ministral-3-8b-instruct",
+    "region": "sa-east-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-235b-a22b",
+    "region": "eu-north-1",
+    "inputCost": 0.000385,
+    "outputCost": 0.00088,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mec1-novamicro",
+    "region": "me-central-1",
+    "inputCost": 0.0000175,
+    "outputCost": 0.00014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ilc1-novapro",
+    "region": "il-central-1",
+    "inputCost": 0.001,
+    "outputCost": 0.007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-ministral-3-14b-instruct",
+    "region": "eu-west-1",
+    "inputCost": 0.0004,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-24b-2507",
+    "region": "eu-south-1",
+    "inputCost": 0.00021,
+    "outputCost": 0.00061,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "eu-west-3",
+    "inputCost": 0.000847,
+    "outputCost": 0.00369,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "magistral-small-2509",
+    "region": "us-east-1",
+    "inputCost": 0.00088,
+    "outputCost": 0.00075,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-3-70b",
+    "region": "us-west-2",
+    "inputCost": 0.00036,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-480b-a35b",
+    "region": "us-west-2",
+    "inputCost": 0.000225,
+    "outputCost": 0.0018,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-gemma-3-27b-it",
+    "region": "us-east-2",
+    "inputCost": 0.00023,
+    "outputCost": 0.00067,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "eu-south-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.000395,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-4b-it",
+    "region": "ap-south-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-gpt-oss-120b",
+    "region": "us-east-2",
+    "inputCost": 0.000075,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-1-8b",
+    "region": "us-east-1",
+    "inputCost": 0.00022,
+    "outputCost": 0.00022,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "minimax-m2",
+    "region": "ap-south-1",
+    "inputCost": 0.00035,
+    "outputCost": 0.00071,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral7b",
+    "region": "ap-south-1",
+    "inputCost": 0.00018,
+    "outputCost": 0.00024,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-1-70b",
+    "region": "us-west-2",
+    "inputCost": 0.00036,
+    "outputCost": 0.00036,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-gemma-3-12b-it",
+    "region": "us-east-2",
+    "inputCost": 0.00005,
+    "outputCost": 0.00029,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "us-east-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-27b-it",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00014,
+    "outputCost": 0.00023,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "ap-northeast-1",
+    "inputCost": 0.000042,
+    "outputCost": 0.000168,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-12b-v2-vl-bf16",
+    "region": "eu-west-2",
+    "inputCost": 0.00054,
+    "outputCost": 0.00163,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-120b",
+    "region": "us-west-2",
+    "inputCost": 0.00007,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-1-8b",
+    "region": "us-east-2",
+    "inputCost": 0.00022,
+    "outputCost": 0.00011,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-lite",
+    "region": "us-west-2",
+    "inputCost": 0.00015,
+    "outputCost": 0.0002,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-gpt-oss-safeguard-20b",
+    "region": "us-east-2",
+    "inputCost": 0.00003,
+    "outputCost": 0.0001,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "ap-southeast-3",
+    "inputCost": 0.00008,
+    "outputCost": 0.001085,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "usw1-novapro",
+    "region": "us-west-1",
+    "inputCost": 0.000515,
+    "outputCost": 0.00206,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-9b-v2",
+    "region": "eu-south-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00047,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-1-70b",
+    "region": "us-east-1",
+    "inputCost": 0.00072,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic-speech",
+    "region": "eu-north-1",
+    "inputCost": 0.0041,
+    "outputCost": 0.0163,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-8b-instruct",
+    "region": "us-west-2",
+    "inputCost": 0.00007,
+    "outputCost": 0.00007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "deepseek-v3.1",
+    "region": "eu-west-2",
+    "inputCost": 0.000449992,
+    "outputCost": 0.001303426,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-nova2.0omni-text",
+    "region": "us-east-2",
+    "inputCost": 0.0005,
+    "outputCost": 0.0014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama4-scout-17b",
+    "region": "us-east-1",
+    "inputCost": 0.000085,
+    "outputCost": 0.00066,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-mixtral8x7b",
+    "region": "sa-east-1",
+    "inputCost": 0.00076,
+    "outputCost": 0.00118,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-qwen3-235b-a22b",
+    "region": "us-east-2",
+    "inputCost": 0.00022,
+    "outputCost": 0.00088,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-8b-instruct",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00032,
+    "outputCost": 0.00009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "usw1-novalite",
+    "region": "us-west-1",
+    "inputCost": 0.000077,
+    "outputCost": 0.000308,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "eu-south-2",
+    "inputCost": 0.0002,
+    "outputCost": 0.0014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic-text",
+    "region": "us-east-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00024,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-northeast-2",
+    "inputCost": 0.00148,
+    "outputCost": 0.00592,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ap-southeast-2",
+    "inputCost": 0.000063,
+    "outputCost": 0.000126,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral-large-3-675b-instruct",
+    "region": "ap-south-1",
+    "inputCost": 0.00059,
+    "outputCost": 0.00088,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3next-80b-a3b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ap-northeast-1",
+    "inputCost": 0.000072,
+    "outputCost": 0.000288,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral-large-3-675b-instruct",
+    "region": "ap-northeast-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.00182,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-southeast-7",
+    "inputCost": 0.0007175,
+    "outputCost": 0.001695,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-southeast-7",
+    "inputCost": 0.0007,
+    "outputCost": 0.0017,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3next-80b-a3b",
+    "region": "us-east-1",
+    "inputCost": 0.00026,
+    "outputCost": 0.0021,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-27b-it",
+    "region": "eu-west-2",
+    "inputCost": 0.00018,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "deepseek-v3.1",
+    "region": "ap-south-1",
+    "inputCost": 0.000682424,
+    "outputCost": 0.001976678,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00018,
+    "outputCost": 0.00073,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-3b-2507",
+    "region": "ap-south-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapremier",
+    "region": "us-west-2",
+    "inputCost": 0.0025,
+    "outputCost": 0.021875,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ilc1-nova2.0pro-text",
+    "region": "il-central-1",
+    "inputCost": 0.00078,
+    "outputCost": 0.01251,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-20b",
+    "region": "us-east-1",
+    "inputCost": 0.00007,
+    "outputCost": 0.0001,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-vl-235b-a22b",
+    "region": "us-west-2",
+    "inputCost": 0.00026,
+    "outputCost": 0.00266,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-3-70b-custom-model",
+    "region": "us-west-2",
+    "inputCost": 0.00072,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-gemma-3-4b-it",
+    "region": "sa-east-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "eu-north-1",
+    "inputCost": 0.000435,
+    "outputCost": 0.00174,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-southeast-5",
+    "inputCost": 0.0002,
+    "outputCost": 0.0059,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-480b-a35b",
+    "region": "ap-south-1",
+    "inputCost": 0.00053,
+    "outputCost": 0.00106,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-3-70b",
+    "region": "us-east-2",
+    "inputCost": 0.00072,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "eu-south-1",
+    "inputCost": 0.0001,
+    "outputCost": 0.000395,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-27b-it",
+    "region": "ap-south-1",
+    "inputCost": 0.00014,
+    "outputCost": 0.00079,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-mixtral8x7b",
+    "region": "eu-west-1",
+    "inputCost": 0.00049,
+    "outputCost": 0.00076,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "ca-central-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.0008,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-voxtral-mini-24b-2507",
+    "region": "us-east-2",
+    "inputCost": 0.00017,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-4b-it",
+    "region": "us-east-1",
+    "inputCost": 0.00004,
+    "outputCost": 0.00014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-24b-2507",
+    "region": "us-west-2",
+    "inputCost": 0.00017,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-qwen3next-80b-a3b",
+    "region": "eu-west-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00247,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-ministral-3-8b-instruct",
+    "region": "eu-west-1",
+    "inputCost": 0.00018,
+    "outputCost": 0.00018,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ca-central-1",
+    "inputCost": 0.001463,
+    "outputCost": 0.00533,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-south-1",
+    "inputCost": 0.00148,
+    "outputCost": 0.0059,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-20b",
+    "region": "eu-south-1",
+    "inputCost": 0.00014,
+    "outputCost": 0.00023,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "eu-north-1",
+    "inputCost": 0.000075,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-3b",
+    "region": "us-west-2",
+    "inputCost": 0.000075,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-northeast-2",
+    "inputCost": 0.000475,
+    "outputCost": 0.0038,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-20b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00004,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-qwen3coder-30b-a3b",
+    "region": "eu-west-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.0007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mec1-novapro",
+    "region": "me-central-1",
+    "inputCost": 0.0008,
+    "outputCost": 0.0056,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-90b",
+    "region": "us-west-2",
+    "inputCost": 0.00036,
+    "outputCost": 0.00036,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "eu-central-1",
+    "inputCost": 0.0001575,
+    "outputCost": 0.0002,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ap-southeast-4",
+    "inputCost": 0.000065,
+    "outputCost": 0.00026,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistrallarge",
+    "region": "eu-west-3",
+    "inputCost": 0.0052,
+    "outputCost": 0.0156,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-northeast-2",
+    "inputCost": 0.00036,
+    "outputCost": 0.00518,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-novapro",
+    "region": "eu-west-1",
+    "inputCost": 0.00046,
+    "outputCost": 0.00644,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "eu-central-1",
+    "inputCost": 0.0028525,
+    "outputCost": 0.01308,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-12b-v2-vl-bf16",
+    "region": "eu-south-1",
+    "inputCost": 0.0004,
+    "outputCost": 0.00035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "eu-west-2",
+    "inputCost": 0.0004025,
+    "outputCost": 0.0016275,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-14b-instruct",
+    "region": "eu-west-2",
+    "inputCost": 0.00031,
+    "outputCost": 0.00031,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite-custom-model",
+    "region": "us-east-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.0025,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "eu-central-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.000863,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-nemotron-nano-9b-v2",
+    "region": "sa-east-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00028,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-9b-v2",
+    "region": "us-east-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "ap-south-1",
+    "inputCost": 0.00018,
+    "outputCost": 0.0012425,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "eu-south-1",
+    "inputCost": 0.000096,
+    "outputCost": 0.000384,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-qwen3next-80b-a3b",
+    "region": "us-east-2",
+    "inputCost": 0.00026,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-11b",
+    "region": "us-west-2",
+    "inputCost": 0.00016,
+    "outputCost": 0.00008,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-voxtral-mini-3b-2507",
+    "region": "eu-west-1",
+    "inputCost": 0.00005,
+    "outputCost": 0.00005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-235b-a22b",
+    "region": "ap-south-1",
+    "inputCost": 0.00013,
+    "outputCost": 0.00182,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-southeast-3",
+    "inputCost": 0.00147,
+    "outputCost": 0.00588,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-24b-2507",
+    "region": "ap-south-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00061,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistrallarge",
+    "region": "us-west-2",
+    "inputCost": 0.004,
+    "outputCost": 0.012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic2.0-speech",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00363,
+    "outputCost": 0.01452,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-gemma-3-27b-it",
+    "region": "eu-west-1",
+    "inputCost": 0.00014,
+    "outputCost": 0.00045,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "magistral-small-2509",
+    "region": "eu-south-1",
+    "inputCost": 0.00059,
+    "outputCost": 0.00088,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-120b",
+    "region": "eu-south-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "eu-west-2",
+    "inputCost": 0.000049,
+    "outputCost": 0.000196,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3next-80b-a3b",
+    "region": "us-west-2",
+    "inputCost": 0.00026,
+    "outputCost": 0.0021,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-235b-a22b",
+    "region": "ap-southeast-3",
+    "inputCost": 0.000115,
+    "outputCost": 0.0015925,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "us-west-2",
+    "inputCost": 0.0000175,
+    "outputCost": 0.00014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-4b-it",
+    "region": "eu-west-2",
+    "inputCost": 0.00003,
+    "outputCost": 0.00006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-30b-a3b",
+    "region": "eu-central-1",
+    "inputCost": 0.00035,
+    "outputCost": 0.000395,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-novamicro",
+    "region": "us-east-2",
+    "inputCost": 0.0000175,
+    "outputCost": 0.00007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-27b-it",
+    "region": "us-west-2",
+    "inputCost": 0.00012,
+    "outputCost": 0.00038,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ugw1-novalite",
+    "region": "us-gov-west-1",
+    "inputCost": 0.000036,
+    "outputCost": 0.000144,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "ap-southeast-7",
+    "inputCost": 0.000021,
+    "outputCost": 0.000084,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-480b-a35b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00054,
+    "outputCost": 0.003815,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "eu-west-2",
+    "inputCost": 0.000084,
+    "outputCost": 0.000336,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-120b",
+    "region": "ap-southeast-3",
+    "inputCost": 0.00008,
+    "outputCost": 0.001085,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-gpt-oss-safeguard-20b",
+    "region": "sa-east-1",
+    "inputCost": 0.00014,
+    "outputCost": 0.00024,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "eu-west-2",
+    "inputCost": 0.00113,
+    "outputCost": 0.00226,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-novapro-latency-optimized",
+    "region": "us-east-2",
+    "inputCost": 0.001,
+    "outputCost": 0.004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "eu-south-1",
+    "inputCost": 0.001005,
+    "outputCost": 0.01605,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-2-1b",
+    "region": "us-east-2",
+    "inputCost": 0.0001,
+    "outputCost": 0.0001,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-deepseek-v3.1",
+    "region": "us-east-2",
+    "inputCost": 0.001015,
+    "outputCost": 0.00084,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "kimi-k2-thinking",
+    "region": "us-east-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.0025,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "magistral-small-2509",
+    "region": "ap-northeast-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.00182,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-3b-2507",
+    "region": "eu-west-2",
+    "inputCost": 0.00003,
+    "outputCost": 0.00003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3next-80b-a3b",
+    "region": "eu-south-1",
+    "inputCost": 0.00032,
+    "outputCost": 0.00071,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-nova2.0pro-text",
+    "region": "eu-west-1",
+    "inputCost": 0.0025025,
+    "outputCost": 0.0200725,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic2.0-speech",
+    "region": "us-west-2",
+    "inputCost": 0.003,
+    "outputCost": 0.012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro-latency-optimized",
+    "region": "us-east-1",
+    "inputCost": 0.001,
+    "outputCost": 0.004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "us-east-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00024,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral7b",
+    "region": "ca-central-1",
+    "inputCost": 0.00017,
+    "outputCost": 0.00023,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-3b-instruct",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00021,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-lite",
+    "region": "ca-central-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-3-30b",
+    "region": "eu-west-2",
+    "inputCost": 0.00005,
+    "outputCost": 0.00018,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "eu-north-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0048,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-70b",
+    "region": "eu-west-2",
+    "inputCost": 0.00345,
+    "outputCost": 0.00455,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-voxtral-mini-24b-2507",
+    "region": "eu-west-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00017,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-120b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00032,
+    "outputCost": 0.00036,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ilc1-nova2.0omni-text",
+    "region": "il-central-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0031,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-3b-2507",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-southeast-1",
+    "inputCost": 0.0002,
+    "outputCost": 0.0017,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mixtral8x7b",
+    "region": "eu-west-3",
+    "inputCost": 0.00059,
+    "outputCost": 0.00091,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-70b",
+    "region": "us-west-2",
+    "inputCost": 0.00265,
+    "outputCost": 0.0035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-3b-2507",
+    "region": "eu-south-1",
+    "inputCost": 0.00003,
+    "outputCost": 0.00009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "magistral-small-2509",
+    "region": "eu-west-2",
+    "inputCost": 0.00039,
+    "outputCost": 0.00117,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "eu-north-1",
+    "inputCost": 0.000035,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-safeguard-20b",
+    "region": "us-west-2",
+    "inputCost": 0.00003,
+    "outputCost": 0.00035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama4-scout-17b",
+    "region": "us-east-2",
+    "inputCost": 0.00017,
+    "outputCost": 0.00066,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mixtral8x7b",
+    "region": "us-west-2",
+    "inputCost": 0.00045,
+    "outputCost": 0.0007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-minimax-m2",
+    "region": "sa-east-1",
+    "inputCost": 0.00036,
+    "outputCost": 0.00145,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-12b-v2-vl-bf16",
+    "region": "us-east-1",
+    "inputCost": 0.0001,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3coder-480b-a35b",
+    "region": "ap-southeast-3",
+    "inputCost": 0.00047,
+    "outputCost": 0.0032725,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gpt-oss-20b",
+    "region": "us-east-1",
+    "inputCost": 0.00007,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "deepseek-v3.1",
+    "region": "eu-north-1",
+    "inputCost": 0.00029,
+    "outputCost": 0.00168,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "deepseek-v3.1",
+    "region": "ap-northeast-1",
+    "inputCost": 0.001227916,
+    "outputCost": 0.001016206,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral7b",
+    "region": "us-west-2",
+    "inputCost": 0.00015,
+    "outputCost": 0.0002,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "eu-west-2",
+    "inputCost": 0.000115,
+    "outputCost": 0.00093,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "eu-south-1",
+    "inputCost": 0.00224,
+    "outputCost": 0.0091175,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "gemma-3-4b-it",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00005,
+    "outputCost": 0.00005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-3b",
+    "region": "eu-central-1",
+    "inputCost": 0.000095,
+    "outputCost": 0.00019,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mixtral8x7b",
+    "region": "ap-southeast-2",
+    "inputCost": 0.00059,
+    "outputCost": 0.00091,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-gpt-oss-120b",
+    "region": "sa-east-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.0012775,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-nemotron-nano-9b-v2",
+    "region": "us-east-2",
+    "inputCost": 0.00006,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-gpt-oss-20b",
+    "region": "eu-west-1",
+    "inputCost": 0.00004,
+    "outputCost": 0.000175,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mixtral8x7b",
+    "region": "ap-south-1",
+    "inputCost": 0.00054,
+    "outputCost": 0.00084,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ilc1-nova2.0lite",
+    "region": "il-central-1",
+    "inputCost": 0.000665,
+    "outputCost": 0.00313,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-qwen3coder-30b-a3b",
+    "region": "us-east-2",
+    "inputCost": 0.000075,
+    "outputCost": 0.00105,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-ministral-3-3b-instruct",
+    "region": "us-east-2",
+    "inputCost": 0.0001,
+    "outputCost": 0.00005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-3b-instruct",
+    "region": "eu-west-2",
+    "inputCost": 0.00016,
+    "outputCost": 0.00008,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "us-east-1",
+    "inputCost": 0.0008,
+    "outputCost": 0.0016,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-24b-2507",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00021,
+    "outputCost": 0.00063,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-minimax-m2",
+    "region": "eu-west-1",
+    "inputCost": 0.00017,
+    "outputCost": 0.00141,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-gemma-3-4b-it",
+    "region": "us-east-2",
+    "inputCost": 0.00002,
+    "outputCost": 0.00014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "pixtrallarge2502",
+    "region": "us-west-2",
+    "inputCost": 0.002,
+    "outputCost": 0.006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "eu-south-2",
+    "inputCost": 0.00069,
+    "outputCost": 0.019285,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-novalite",
+    "region": "eu-west-1",
+    "inputCost": 0.0000345,
+    "outputCost": 0.000276,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "eu-south-1",
+    "inputCost": 0.000056,
+    "outputCost": 0.000224,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ap-south-1",
+    "inputCost": 0.0000355,
+    "outputCost": 0.000284,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-1-405b-latency-optimized",
+    "region": "us-east-2",
+    "inputCost": 0.003,
+    "outputCost": 0.003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "ap-southeast-2",
+    "inputCost": 0.0000185,
+    "outputCost": 0.000148,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-9b-v2",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00028,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-northeast-2",
+    "inputCost": 0.0006,
+    "outputCost": 0.003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-gemma-3-27b-it",
+    "region": "sa-east-1",
+    "inputCost": 0.00049,
+    "outputCost": 0.00046,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-southeast-5",
+    "inputCost": 0.00041,
+    "outputCost": 0.0059325,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-32b",
+    "region": "us-east-1",
+    "inputCost": 0.000075,
+    "outputCost": 0.00105,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "ap-south-1",
+    "inputCost": 0.0000205,
+    "outputCost": 0.000164,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-2-90b",
+    "region": "us-east-2",
+    "inputCost": 0.00072,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-qwen3-vl-235b-a22b",
+    "region": "eu-west-1",
+    "inputCost": 0.00031,
+    "outputCost": 0.00156,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0lite",
+    "region": "ap-southeast-1",
+    "inputCost": 0.0007175,
+    "outputCost": 0.0059325,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-70b",
+    "region": "ca-central-1",
+    "inputCost": 0.00305,
+    "outputCost": 0.00403,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "eu-south-2",
+    "inputCost": 0.000066,
+    "outputCost": 0.000264,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-nemotron-nano-3-30b",
+    "region": "us-east-2",
+    "inputCost": 0.00003,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "eu-west-2",
+    "inputCost": 0.0003,
+    "outputCost": 0.0009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "eu-west-3",
+    "inputCost": 0.000088,
+    "outputCost": 0.000352,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-vl-235b-a22b",
+    "region": "eu-west-2",
+    "inputCost": 0.00041,
+    "outputCost": 0.00412,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-lite",
+    "region": "us-east-1",
+    "inputCost": 0.00015,
+    "outputCost": 0.0002,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-gpt-oss-safeguard-120b",
+    "region": "sa-east-1",
+    "inputCost": 0.00018,
+    "outputCost": 0.00036,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistrallarge",
+    "region": "us-east-1",
+    "inputCost": 0.004,
+    "outputCost": 0.012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-qwen3-32b",
+    "region": "us-east-2",
+    "inputCost": 0.000075,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic-speech",
+    "region": "ap-northeast-1",
+    "inputCost": 0.0037,
+    "outputCost": 0.0147,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistrallarge",
+    "region": "ap-south-1",
+    "inputCost": 0.0048,
+    "outputCost": 0.0144,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-24b-2507",
+    "region": "us-east-1",
+    "inputCost": 0.00017,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "us-east-1",
+    "inputCost": 0.0000175,
+    "outputCost": 0.00007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "ap-southeast-2",
+    "inputCost": 0.00084,
+    "outputCost": 0.00336,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-qwen3next-80b-a3b",
+    "region": "sa-east-1",
+    "inputCost": 0.00009,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-8b",
+    "region": "us-west-2",
+    "inputCost": 0.0003,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-ministral-3-3b-instruct",
+    "region": "eu-west-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-magistral-small-2509",
+    "region": "eu-west-1",
+    "inputCost": 0.00059,
+    "outputCost": 0.00088,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "pixtrallarge2502",
+    "region": "eu-north-1",
+    "inputCost": 0.002,
+    "outputCost": 0.006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-1b",
+    "region": "eu-west-3",
+    "inputCost": 0.00013,
+    "outputCost": 0.00013,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ilc1-novalite",
+    "region": "il-central-1",
+    "inputCost": 0.0000375,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-titantextg1-lite",
+    "region": "sa-east-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.0004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-nemotron-nano-12b-v2-vl-bf16",
+    "region": "us-east-2",
+    "inputCost": 0.0001,
+    "outputCost": 0.0003,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mixtral8x7b",
+    "region": "us-east-1",
+    "inputCost": 0.00045,
+    "outputCost": 0.0007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-vl-235b-a22b",
+    "region": "ap-south-1",
+    "inputCost": 0.00031,
+    "outputCost": 0.00156,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-3-70b",
+    "region": "us-east-1",
+    "inputCost": 0.00036,
+    "outputCost": 0.00036,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-mistral7b",
+    "region": "eu-west-1",
+    "inputCost": 0.00016,
+    "outputCost": 0.00022,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "magistral-small-2509",
+    "region": "ap-south-1",
+    "inputCost": 0.00059,
+    "outputCost": 0.00176,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-lite",
+    "region": "ap-southeast-2",
+    "inputCost": 0.0002,
+    "outputCost": 0.00025,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic2.0-text",
+    "region": "us-west-2",
+    "inputCost": 0.000319,
+    "outputCost": 0.002651,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-nemotron-nano-12b-v2-vl-bf16",
+    "region": "eu-west-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-235b-a22b",
+    "region": "eu-south-1",
+    "inputCost": 0.00029,
+    "outputCost": 0.00203,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-1-70b-latency-optimized",
+    "region": "us-east-2",
+    "inputCost": 0.0009,
+    "outputCost": 0.0009,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic-text",
+    "region": "eu-north-1",
+    "inputCost": 0.000065,
+    "outputCost": 0.00026,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-llama3-2-3b",
+    "region": "us-east-2",
+    "inputCost": 0.00015,
+    "outputCost": 0.00015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-90b",
+    "region": "us-east-1",
+    "inputCost": 0.00072,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "eu-central-1",
+    "inputCost": 0.000078,
+    "outputCost": 0.000312,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-8b",
+    "region": "eu-west-2",
+    "inputCost": 0.00039,
+    "outputCost": 0.00078,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "eu-west-3",
+    "inputCost": 0.000026,
+    "outputCost": 0.000208,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-deepseek-r1",
+    "region": "us-east-2",
+    "inputCost": 0.00135,
+    "outputCost": 0.0054,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-8b-instruct",
+    "region": "us-east-1",
+    "inputCost": 0.00007,
+    "outputCost": 0.00007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "eu-south-2",
+    "inputCost": 0.00088,
+    "outputCost": 0.00616,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-3-30b",
+    "region": "eu-south-1",
+    "inputCost": 0.00007,
+    "outputCost": 0.00049,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-titantextg1-express",
+    "region": "sa-east-1",
+    "inputCost": 0.0004,
+    "outputCost": 0.0011,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-3b",
+    "region": "eu-west-3",
+    "inputCost": 0.0002,
+    "outputCost": 0.0002,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nemotron-nano-3-30b",
+    "region": "ap-northeast-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00051,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "usw1-llama4-scout-17b",
+    "region": "us-west-1",
+    "inputCost": 0.00017,
+    "outputCost": 0.00033,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro-custom-model",
+    "region": "us-east-1",
+    "inputCost": 0.000035,
+    "outputCost": 0.00014,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-1b",
+    "region": "us-west-2",
+    "inputCost": 0.00005,
+    "outputCost": 0.00005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-novapremier",
+    "region": "us-east-2",
+    "inputCost": 0.00125,
+    "outputCost": 0.00625,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "pixtrallarge2502",
+    "region": "us-east-1",
+    "inputCost": 0.002,
+    "outputCost": 0.006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-3b-instruct",
+    "region": "eu-south-1",
+    "inputCost": 0.00006,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ministral-3-14b-instruct",
+    "region": "ap-south-1",
+    "inputCost": 0.00012,
+    "outputCost": 0.00012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "qwen3-235b-a22b",
+    "region": "us-west-2",
+    "inputCost": 0.00011,
+    "outputCost": 0.00088,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novamicro",
+    "region": "ap-southeast-1",
+    "inputCost": 0.0000235,
+    "outputCost": 0.000094,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-magistral-small-2509",
+    "region": "us-east-2",
+    "inputCost": 0.0005,
+    "outputCost": 0.00263,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ap-southeast-1",
+    "inputCost": 0.0000405,
+    "outputCost": 0.000162,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0pro-text",
+    "region": "ap-southeast-4",
+    "inputCost": 0.00068,
+    "outputCost": 0.00542,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "voxtral-mini-3b-2507",
+    "region": "us-west-2",
+    "inputCost": 0.00007,
+    "outputCost": 0.00007,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-pixtrallarge2502",
+    "region": "eu-west-1",
+    "inputCost": 0.002,
+    "outputCost": 0.006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic2.0-speech",
+    "region": "eu-north-1",
+    "inputCost": 0.00291,
+    "outputCost": 0.01165,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "pixtrallarge2502",
+    "region": "eu-central-1",
+    "inputCost": 0.002,
+    "outputCost": 0.006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-70b",
+    "region": "us-east-1",
+    "inputCost": 0.00265,
+    "outputCost": 0.0035,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-2-11b",
+    "region": "us-east-1",
+    "inputCost": 0.00016,
+    "outputCost": 0.00016,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama4-maverick-17b",
+    "region": "us-west-2",
+    "inputCost": 0.00024,
+    "outputCost": 0.000485,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ap-northeast-2",
+    "inputCost": 0.000071,
+    "outputCost": 0.000284,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral7b",
+    "region": "us-east-1",
+    "inputCost": 0.00015,
+    "outputCost": 0.0002,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mxc1-nova2.0omni-text",
+    "region": "mx-central-1",
+    "inputCost": 0.0005,
+    "outputCost": 0.0044,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "usw1-llama4-maverick-17b",
+    "region": "us-west-1",
+    "inputCost": 0.00024,
+    "outputCost": 0.000485,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-titantextg1-lite",
+    "region": "eu-west-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.0004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "eu-llama3-2-3b",
+    "region": "eu-west-1",
+    "inputCost": 0.00017,
+    "outputCost": 0.00017,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-8b",
+    "region": "us-east-1",
+    "inputCost": 0.0003,
+    "outputCost": 0.0006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "pixtrallarge2502",
+    "region": "eu-west-3",
+    "inputCost": 0.002,
+    "outputCost": 0.006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-8b",
+    "region": "ap-south-1",
+    "inputCost": 0.00036,
+    "outputCost": 0.00072,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-llama3-8b",
+    "region": "sa-east-1",
+    "inputCost": 0.0005,
+    "outputCost": 0.00101,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novalite",
+    "region": "ca-central-1",
+    "inputCost": 0.000064,
+    "outputCost": 0.000256,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistrallarge",
+    "region": "ap-southeast-2",
+    "inputCost": 0.0052,
+    "outputCost": 0.0156,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-1-405b",
+    "region": "us-east-1",
+    "inputCost": 0.0012,
+    "outputCost": 0.0012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro",
+    "region": "eu-west-3",
+    "inputCost": 0.00118,
+    "outputCost": 0.00826,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "ap-southeast-2",
+    "inputCost": 0.00025,
+    "outputCost": 0.000788,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "nova2.0omni-text",
+    "region": "ap-southeast-3",
+    "inputCost": 0.0006,
+    "outputCost": 0.0026,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-express",
+    "region": "ap-northeast-1",
+    "inputCost": 0.000275,
+    "outputCost": 0.000825,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic2.0-speech",
+    "region": "us-east-1",
+    "inputCost": 0.003,
+    "outputCost": 0.012,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral7b",
+    "region": "eu-west-2",
+    "inputCost": 0.0002,
+    "outputCost": 0.00026,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro-custom-model",
+    "region": "us-east-1",
+    "inputCost": 0.0008,
+    "outputCost": 0.0032,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-70b",
+    "region": "ap-south-1",
+    "inputCost": 0.00318,
+    "outputCost": 0.0042,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novapro-latency-optimized",
+    "region": "us-west-2",
+    "inputCost": 0.001,
+    "outputCost": 0.004,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic2.0-text",
+    "region": "ap-northeast-1",
+    "inputCost": 0.000396,
+    "outputCost": 0.003311,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mixtral8x7b",
+    "region": "eu-west-2",
+    "inputCost": 0.00059,
+    "outputCost": 0.00091,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "llama3-1-8b",
+    "region": "us-west-2",
+    "inputCost": 0.00011,
+    "outputCost": 0.00011,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "use2-pixtrallarge2502",
+    "region": "us-east-2",
+    "inputCost": 0.002,
+    "outputCost": 0.006,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-mistrallarge",
+    "region": "sa-east-1",
+    "inputCost": 0.0067,
+    "outputCost": 0.0202,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantext-premier",
+    "region": "us-east-1",
+    "inputCost": 0.0005,
+    "outputCost": 0.0015,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistrallarge",
+    "region": "ca-central-1",
+    "inputCost": 0.0046,
+    "outputCost": 0.0138,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistrallarge",
+    "region": "eu-west-2",
+    "inputCost": 0.0052,
+    "outputCost": 0.0156,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-lite",
+    "region": "ap-south-1",
+    "inputCost": 0.0004,
+    "outputCost": 0.0005,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "ugw1-titantextg1-express",
+    "region": "us-gov-west-1",
+    "inputCost": 0.0008,
+    "outputCost": 0.0016,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "novasonic2.0-text",
+    "region": "eu-north-1",
+    "inputCost": 0.000363,
+    "outputCost": 0.002992,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "titantextg1-lite",
+    "region": "eu-west-3",
+    "inputCost": 0.0002,
+    "outputCost": 0.00025,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "mistral7b",
+    "region": "eu-west-3",
+    "inputCost": 0.0002,
+    "outputCost": 0.00026,
+    "source": "default"
+  },
+  {
+    "provider": "AWS Bedrock",
+    "name": "sae1-mistral7b",
+    "region": "sa-east-1",
+    "inputCost": 0.00025,
+    "outputCost": 0.00034,
+    "source": "default"
+  }
+]
